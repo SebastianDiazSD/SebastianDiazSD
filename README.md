@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**SebastianDiazSD/SebastianDiazSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Sebastian
 
-Here are some ideas to get you started:
+🚀 Civil & Project Engineer | Transitioning to Tech | MSc Computer Science @ University of York | Smart Infrastructure Enthusiast
+🛠️ Currently learning: Python, Java, Web Development  
+📚 Uploading coursework, personal projects, and more  
+🔍 Open to internships and developer roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Results-driven Civil and Project Engineer with a solid background in infrastructure development, construction management, and project planning.
+Proven experience leading large-scale projects from concept to completion—ensuring alignment with budget, quality, and regulatory standards.
+
+Skilled in coordinating multidisciplinary teams, managing contracts, and engaging stakeholders across complex projects.
+Fluent in Spanish, English, and German, and passionate about working in international and interdisciplinary settings.
+
+Currently transitioning into tech to complement my engineering expertise. 
+My goal is to fuse civil engineering with technology—leveraging skills in data analysis, software development, and smart infrastructure—to deliver innovative,
+forward-thinking solutions for modern engineering challenges.
+
+🌐 Focus areas:
+
+Smart Infrastructure
+Data-Driven Construction Management
+Geographic Information Szstems (GIS)
+
+📫 How to reach me: sebas.a.diaz91@gmail.com | [LinkedIn profile]
