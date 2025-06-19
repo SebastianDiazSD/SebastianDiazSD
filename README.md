@@ -23,4 +23,4 @@ Smart Infrastructure
 Data-Driven Construction Management
 Geographic Information Szstems (GIS)
 
-📫 How to reach me: sebas.a.diaz91@gmail.com | [LinkedIn profile]
+📫 How to reach me: sebas.a.diaz91@gmail.com | https://www.linkedin.com/in/sebastian-arce-diaz91/
