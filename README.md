@@ -21,6 +21,6 @@ forward-thinking solutions for modern engineering challenges.
 
 Smart Infrastructure
 Data-Driven Construction Management
-Geographic Information Szstems (GIS)
+Geographic Information Systems (GIS)
 
 📫 How to reach me: sebas.a.diaz91@gmail.com | https://www.linkedin.com/in/sebastian-arce-diaz91/
