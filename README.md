@@ -1,26 +1,54 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-### I'm Sebastian
+**Civil & Structural Engineer × CS Master's student** — bridging infrastructure and software to build tools that make construction smarter.
 
-🚀 Civil & Project Engineer | Transitioning to Tech | MSc Computer Science @ University of York | Smart Infrastructure Enthusiast
-🛠️ Currently learning: Python, Java, Web Development  
-📚 Uploading coursework, personal projects, and more  
-🔍 Open to internships and developer roles
+🏗️ **5+ years** in railway infrastructure at **Deutsche Bahn** (project engineering & site supervision)  
+🎓 **MSc Computer Science** @ University of York *(in progress)*  
+🌍 Based in **Germany** · Fluent in 🇪🇸 Spanish · 🇬🇧 English · 🇩🇪 German
 
-Results-driven Civil and Project Engineer with a solid background in infrastructure development, construction management, and project planning.
-Proven experience leading large-scale projects from concept to completion—ensuring alignment with budget, quality, and regulatory standards.
+---
 
-Skilled in coordinating multidisciplinary teams, managing contracts, and engaging stakeholders across complex projects.
-Fluent in Spanish, English, and German, and passionate about working in international and interdisciplinary settings.
+## What I build
 
-Currently transitioning into tech to complement my engineering expertise. 
-My goal is to fuse civil engineering with technology—leveraging skills in data analysis, software development, and smart infrastructure—to deliver innovative,
-forward-thinking solutions for modern engineering challenges.
+| Domain | Focus |
+|--------|-------|
+| 🚆 Infrastructure Analytics | Cost-tracking dashboards, schedule deviation models, risk tools for railway projects |
+| 🤖 Construction Automation | Automated reporting pipelines, data extraction from project management systems |
+| 📊 Data Engineering | Python-based ETL, Pandas/Plotly/Streamlit apps, regression & time-series analysis |
+| 🌐 Full-Stack Web | Flask & Django APIs, REST services, deployed production apps |
 
-🌐 Focus areas:
+---
 
-Smart Infrastructure
-Data-Driven Construction Management
-Geographic Information Systems (GIS)
+## Tech Stack
 
-📫 How to reach me: [Sebastian Arce Diaz](https://www.linkedin.com/in/sebastian-arce-diaz91/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Featured Repos
+
+- 🏗️ [`infrastructure-data-portfolio`](https://github.com/SebastianDiazSD/infrastructure-data-portfolio) — Real-world civil/railway analytics projects (Streamlit, Pandas, Plotly)
+- 🐍 [`100-python-projects-challenge`](https://github.com/SebastianDiazSD/100-python-projects-challenge) — 100 Python projects across automation, web, data science & games ✅ **100/100 complete**
+- 🧮 [`algorithms-and-data-structures`](https://github.com/SebastianDiazSD/algorithms-and-data-structures) — University coursework: weekly algorithmic problem-solving in Python
+
+---
+
+## Currently working on
+
+- 🚧 Railway cost-deviation analysis tool (real DB project data, anonymised)
+- 🔬 MSc modules: Algorithms, Machine Learning, Software Engineering
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Arce_Diaz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-arce-diaz91/)
+
+> *Open to consulting projects and internships at the intersection of civil engineering and software.*
