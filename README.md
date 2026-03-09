@@ -2,7 +2,7 @@
 
 **Civil & Structural Engineer × CS Master's student** — bridging infrastructure and software to build tools that make construction smarter.
 
-🏗️ **5+ years** in railway infrastructure at **Deutsche Bahn** (project engineering & site supervision)  
+🏗️ **5+ years** in railway infrastructure project engineering and site supervision in Germany (Deutsche Bahn 2020–2024 · currently Bauüberwacher Bahn) 
 🎓 **MSc Computer Science** @ University of York *(in progress)*  
 🌍 Based in **Germany** · Fluent in 🇪🇸 Spanish · 🇬🇧 English · 🇩🇪 German
 
@@ -51,4 +51,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Arce_Diaz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sebastian-arce-diaz91/)
 
-> *Open to consulting projects and internships at the intersection of civil engineering and software.*
+> *Interested in the intersection of infrastructure project management and data tooling. Open to conversations about research, collaboration, and future opportunities.*
