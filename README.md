@@ -36,7 +36,7 @@
 
 - 🏗️ [`infrastructure-data-portfolio`](https://github.com/SebastianDiazSD/infrastructure-data-portfolio) — Real-world civil/railway analytics projects (Streamlit, Pandas, Plotly)
 - 🐍 [`100-python-projects-challenge`](https://github.com/SebastianDiazSD/100-python-projects-challenge) — 100 Python projects across automation, web, data science & games ✅ **100/100 complete**
-- 🧮 [`algorithms-and-data-structures`](https://github.com/SebastianDiazSD/algorithms-and-data-structures) — University coursework: weekly algorithmic problem-solving in Python
+- 🧮 [`msc-computer-science-york`](https://github.com/SebastianDiazSD/msc-computer-science-york) — University coursework: weekly algorithmic problem-solving in Python
 
 ---
 
